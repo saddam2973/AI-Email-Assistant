@@ -1,0 +1,5 @@
+streamlit==1.38.0
+pandas==2.2.2
+nltk==3.9.1
+python-dateutil==2.9.0.post0
+tomli==2.0.1

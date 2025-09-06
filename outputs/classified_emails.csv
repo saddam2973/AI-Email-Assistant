@@ -1,0 +1,381 @@
+sender,subject,body,sent_date,received_at,sentiment,priority,category,phones_found,emails_found,requirements,draft_reply
+alice@example.com,General query about subscription,"Our servers are down, and we need immediate support. This is highly critical.",2025-08-26 02:58:09,2025-08-26 02:58:09,Neutral,Urgent,General Query,[],[],"['Our servers are down, and we need immediate support.']","Subject: Re: General query about subscription
+
+Hi,
+
+Thank you for contacting our support team. I’ll address your query with the necessary details below.
+
+**What I’ll do next**
+- We’re prioritizing this and will respond first.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - I’ve summarized key details below.
+  - If I missed anything, reply with specifics and I’ll refine the answer.
+  - Happy to help further.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+alice@example.com,Query about product pricing,There is a billing error where I was charged twice. This needs immediate correction.,2025-08-24 13:58:09,2025-08-24 13:58:09,Negative,Urgent,Billing Issue,[],[],"['There is a billing error where I was charged twice.', 'This needs immediate correction.']","Subject: Re: Query about product pricing
+
+Hi,
+
+I’m sorry for the trouble you’re facing, and I appreciate your patience. I understand you’re experiencing a billing/pricing issue. I’ll help clarify charges and ensure your account reflects the correct amount.
+
+**What I’ll do next**
+- We’re prioritizing this and will respond first.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - Share the last 4 digits of the invoice ID (no sensitive info).
+  - Confirm the billing period and the expected amount.
+  - We’ll review and correct any discrepancy.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+eve@startup.io,Query about product pricing,"Our servers are down, and we need immediate support. This is highly critical.",2025-08-22 09:58:09,2025-08-22 09:58:09,Neutral,Urgent,Billing Issue,[],[],"['Our servers are down, and we need immediate support.']","Subject: Re: Query about product pricing
+
+Hi,
+
+Thank you for contacting our support team. I understand you’re experiencing a billing/pricing issue. I’ll help clarify charges and ensure your account reflects the correct amount.
+
+**What I’ll do next**
+- We’re prioritizing this and will respond first.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - Share the last 4 digits of the invoice ID (no sensitive info).
+  - Confirm the billing period and the expected amount.
+  - We’ll review and correct any discrepancy.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+alice@example.com,Urgent request: system access blocked,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-21 21:58:09,2025-08-21 21:58:09,Positive,Urgent,Account Issue,[],[],"['Hi team, I am unable to log into my account since yesterday.', 'Could you please help me resolve this issue?']","Subject: Re: Urgent request: system access blocked
+
+Hi,
+
+Thank you for reaching out and for the clear details. It looks like there’s an account access issue. I’ll guide you through restoring access securely.
+
+**What I’ll do next**
+- We’re prioritizing this and will respond first.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - Use the ‘Forgot Password’ link and follow the instructions.
+  - If still blocked, reply with the email/username used for the account (no passwords).
+  - We’ll verify and restore access.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+eve@startup.io,Critical help needed for downtime,"Our servers are down, and we need immediate support. This is highly critical.",2025-08-21 19:58:09,2025-08-21 19:58:09,Neutral,Urgent,General Query,[],[],"['Our servers are down, and we need immediate support.']","Subject: Re: Critical help needed for downtime
+
+Hi,
+
+Thank you for contacting our support team. I’ll address your query with the necessary details below.
+
+**What I’ll do next**
+- We’re prioritizing this and will respond first.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - I’ve summarized key details below.
+  - If I missed anything, reply with specifics and I’ll refine the answer.
+  - Happy to help further.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+diana@client.co,Help required with account verification,There is a billing error where I was charged twice. This needs immediate correction.,2025-08-20 19:58:09,2025-08-20 19:58:09,Negative,Urgent,Billing Issue,[],[],"['There is a billing error where I was charged twice.', 'This needs immediate correction.']","Subject: Re: Help required with account verification
+
+Hi,
+
+I’m sorry for the trouble you’re facing, and I appreciate your patience. I understand you’re experiencing a billing/pricing issue. I’ll help clarify charges and ensure your account reflects the correct amount.
+
+**What I’ll do next**
+- We’re prioritizing this and will respond first.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - Share the last 4 digits of the invoice ID (no sensitive info).
+  - Confirm the billing period and the expected amount.
+  - We’ll review and correct any discrepancy.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+eve@startup.io,Immediate support needed for billing error,"Hello, I wanted to understand the pricing tiers better. Could you share a detailed breakdown?",2025-08-20 12:58:09,2025-08-20 12:58:09,Positive,Urgent,Billing Issue,[],[],"['Hello, I wanted to understand the pricing tiers better.']","Subject: Re: Immediate support needed for billing error
+
+Hi,
+
+Thank you for reaching out and for the clear details. I understand you’re experiencing a billing/pricing issue. I’ll help clarify charges and ensure your account reflects the correct amount.
+
+**What I’ll do next**
+- We’re prioritizing this and will respond first.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - Share the last 4 digits of the invoice ID (no sensitive info).
+  - Confirm the billing period and the expected amount.
+  - We’ll review and correct any discrepancy.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+bob@customer.com,Urgent request: system access blocked,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",2025-08-19 13:58:09,2025-08-19 13:58:09,Neutral,Urgent,Account Issue,[],[],"['Despite multiple attempts, I cannot reset my password.']","Subject: Re: Urgent request: system access blocked
+
+Hi,
+
+Thank you for contacting our support team. It looks like there’s an account access issue. I’ll guide you through restoring access securely.
+
+**What I’ll do next**
+- We’re prioritizing this and will respond first.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - Use the ‘Forgot Password’ link and follow the instructions.
+  - If still blocked, reply with the email/username used for the account (no passwords).
+  - We’ll verify and restore access.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+alice@example.com,Immediate support needed for billing error,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",2025-08-19 07:58:09,2025-08-19 07:58:09,Neutral,Urgent,Billing Issue,[],[],"['Despite multiple attempts, I cannot reset my password.']","Subject: Re: Immediate support needed for billing error
+
+Hi,
+
+Thank you for contacting our support team. I understand you’re experiencing a billing/pricing issue. I’ll help clarify charges and ensure your account reflects the correct amount.
+
+**What I’ll do next**
+- We’re prioritizing this and will respond first.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - Share the last 4 digits of the invoice ID (no sensitive info).
+  - Confirm the billing period and the expected amount.
+  - We’ll review and correct any discrepancy.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+alice@example.com,Critical help needed for downtime,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-18 08:58:09,2025-08-18 08:58:09,Positive,Urgent,Account Issue,[],[],"['Hi team, I am unable to log into my account since yesterday.', 'Could you please help me resolve this issue?']","Subject: Re: Critical help needed for downtime
+
+Hi,
+
+Thank you for reaching out and for the clear details. It looks like there’s an account access issue. I’ll guide you through restoring access securely.
+
+**What I’ll do next**
+- We’re prioritizing this and will respond first.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - Use the ‘Forgot Password’ link and follow the instructions.
+  - If still blocked, reply with the email/username used for the account (no passwords).
+  - We’ll verify and restore access.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+charlie@partner.org,Help required with account verification,"This is urgent – our system is completely inaccessible, and this is affecting our operations.",2025-08-18 00:58:09,2025-08-18 00:58:09,Positive,Urgent,Account Issue,[],[],[],"Subject: Re: Help required with account verification
+
+Hi,
+
+Thank you for reaching out and for the clear details. It looks like there’s an account access issue. I’ll guide you through restoring access securely.
+
+**What I’ll do next**
+- We’re prioritizing this and will respond first.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - Use the ‘Forgot Password’ link and follow the instructions.
+  - If still blocked, reply with the email/username used for the account (no passwords).
+  - We’ll verify and restore access.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+diana@client.co,Support needed for login issue,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-26 15:58:09,2025-08-26 15:58:09,Positive,Not urgent,Account Issue,[],[],"['Hi team, I am unable to log into my account since yesterday.', 'Could you please help me resolve this issue?']","Subject: Re: Support needed for login issue
+
+Hi,
+
+Thank you for reaching out and for the clear details. It looks like there’s an account access issue. I’ll guide you through restoring access securely.
+
+**What I’ll do next**
+- This will be handled promptly.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - Use the ‘Forgot Password’ link and follow the instructions.
+  - If still blocked, reply with the email/username used for the account (no passwords).
+  - We’ll verify and restore access.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+alice@example.com,General query about subscription,I am facing issues with verifying my account. The verification email never arrived. Can you assist?,2025-08-26 01:58:09,2025-08-26 01:58:09,Neutral,Not urgent,Account Issue,[],[],['I am facing issues with verifying my account.'],"Subject: Re: General query about subscription
+
+Hi,
+
+Thank you for contacting our support team. It looks like there’s an account access issue. I’ll guide you through restoring access securely.
+
+**What I’ll do next**
+- This will be handled promptly.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - Use the ‘Forgot Password’ link and follow the instructions.
+  - If still blocked, reply with the email/username used for the account (no passwords).
+  - We’ll verify and restore access.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+diana@client.co,General query about subscription,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-25 00:58:09,2025-08-25 00:58:09,Positive,Not urgent,Account Issue,[],[],"['Hi team, I am unable to log into my account since yesterday.', 'Could you please help me resolve this issue?']","Subject: Re: General query about subscription
+
+Hi,
+
+Thank you for reaching out and for the clear details. It looks like there’s an account access issue. I’ll guide you through restoring access securely.
+
+**What I’ll do next**
+- This will be handled promptly.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - Use the ‘Forgot Password’ link and follow the instructions.
+  - If still blocked, reply with the email/username used for the account (no passwords).
+  - We’ll verify and restore access.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+alice@example.com,Help required with account verification,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",2025-08-24 05:58:09,2025-08-24 05:58:09,Positive,Not urgent,Account Issue,[],[],[],"Subject: Re: Help required with account verification
+
+Hi,
+
+Thank you for reaching out and for the clear details. It looks like there’s an account access issue. I’ll guide you through restoring access securely.
+
+**What I’ll do next**
+- This will be handled promptly.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - Use the ‘Forgot Password’ link and follow the instructions.
+  - If still blocked, reply with the email/username used for the account (no passwords).
+  - We’ll verify and restore access.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+diana@client.co,Support needed for login issue,I am facing issues with verifying my account. The verification email never arrived. Can you assist?,2025-08-23 06:58:09,2025-08-23 06:58:09,Positive,Not urgent,Account Issue,[],[],['I am facing issues with verifying my account.'],"Subject: Re: Support needed for login issue
+
+Hi,
+
+Thank you for reaching out and for the clear details. It looks like there’s an account access issue. I’ll guide you through restoring access securely.
+
+**What I’ll do next**
+- This will be handled promptly.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - Use the ‘Forgot Password’ link and follow the instructions.
+  - If still blocked, reply with the email/username used for the account (no passwords).
+  - We’ll verify and restore access.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+diana@client.co,Request for refund process clarification,Could you clarify the steps involved in requesting a refund? I submitted one last week but have no update.,2025-08-22 17:58:09,2025-08-22 17:58:09,Negative,Not urgent,General Query,[],[],[],"Subject: Re: Request for refund process clarification
+
+Hi,
+
+I’m sorry for the trouble you’re facing, and I appreciate your patience. I’ll address your query with the necessary details below.
+
+**What I’ll do next**
+- This will be handled promptly.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - I’ve summarized key details below.
+  - If I missed anything, reply with specifics and I’ll refine the answer.
+  - Happy to help further.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+alice@example.com,Help required with account verification,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",2025-08-21 13:58:09,2025-08-21 13:58:09,Positive,Not urgent,Account Issue,[],[],[],"Subject: Re: Help required with account verification
+
+Hi,
+
+Thank you for reaching out and for the clear details. It looks like there’s an account access issue. I’ll guide you through restoring access securely.
+
+**What I’ll do next**
+- This will be handled promptly.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - Use the ‘Forgot Password’ link and follow the instructions.
+  - If still blocked, reply with the email/username used for the account (no passwords).
+  - We’ll verify and restore access.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"
+eve@startup.io,Help required with account verification,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",2025-08-19 00:58:09,2025-08-19 00:58:09,Positive,Not urgent,Account Issue,[],[],[],"Subject: Re: Help required with account verification
+
+Hi,
+
+Thank you for reaching out and for the clear details. It looks like there’s an account access issue. I’ll guide you through restoring access securely.
+
+**What I’ll do next**
+- This will be handled promptly.
+- Create a ticket and track progress until resolution.
+
+**Action items (to accelerate resolution)**
+  - Use the ‘Forgot Password’ link and follow the instructions.
+  - If still blocked, reply with the email/username used for the account (no passwords).
+  - We’ll verify and restore access.
+
+If there’s anything else we should consider (browser, environment, steps tried), please reply and I’ll tailor the fix.
+
+Best regards,
+Support Team
+"

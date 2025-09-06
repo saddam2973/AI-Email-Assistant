@@ -1,0 +1,10 @@
+# Copy to config.toml and fill values to enable live email/LLM
+[email]
+provider = "imap"         # imap | gmail | outlook
+imap_host = "imap.example.com"
+imap_user = "you@example.com"
+imap_pass = "app_password"
+
+[openai]
+api_key = "sk-..."
+model = "gpt-4o-mini"

@@ -1,0 +1,38 @@
+sender,subject,status
+alice@example.com,General query about subscription,Pending
+alice@example.com,General query about subscription,Pending
+alice@example.com,General query about subscription,Pending
+alice@example.com,General query about subscription,Pending
+alice@example.com,Query about product pricing,Pending
+eve@startup.io,Query about product pricing,Pending
+alice@example.com,Urgent request: system access blocked,Pending
+eve@startup.io,Critical help needed for downtime,Pending
+diana@client.co,Help required with account verification,Pending
+eve@startup.io,Immediate support needed for billing error,Pending
+bob@customer.com,Urgent request: system access blocked,Pending
+alice@example.com,Immediate support needed for billing error,Pending
+alice@example.com,Critical help needed for downtime,Pending
+charlie@partner.org,Help required with account verification,Pending
+diana@client.co,Support needed for login issue,Pending
+diana@client.co,Support needed for login issue,Pending
+diana@client.co,Support needed for login issue,Pending
+diana@client.co,Support needed for login issue,Pending
+alice@example.com,General query about subscription,Pending
+alice@example.com,General query about subscription,Pending
+alice@example.com,General query about subscription,Pending
+alice@example.com,General query about subscription,Pending
+diana@client.co,General query about subscription,Pending
+alice@example.com,Help required with account verification,Pending
+alice@example.com,Help required with account verification,Pending
+alice@example.com,Help required with account verification,Pending
+alice@example.com,Help required with account verification,Pending
+diana@client.co,Support needed for login issue,Pending
+diana@client.co,Support needed for login issue,Pending
+diana@client.co,Support needed for login issue,Pending
+diana@client.co,Support needed for login issue,Pending
+diana@client.co,Request for refund process clarification,Pending
+alice@example.com,Help required with account verification,Pending
+alice@example.com,Help required with account verification,Pending
+alice@example.com,Help required with account verification,Pending
+alice@example.com,Help required with account verification,Pending
+eve@startup.io,Help required with account verification,Pending
