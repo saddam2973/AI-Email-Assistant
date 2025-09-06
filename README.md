@@ -26,7 +26,7 @@ pip install -r requirements.txt
 python main.py # Process and classify emails
 streamlit run app.py # Start the dashboard
 ## Demo Video
-🎥 Watch the demo video here: [Demo Link]((https://drive.google.com/file/d/1ThKwcTcE9LBDMUWptLma22dKjj_iIzzD/view?usp=drive_link))
+🎥 Watch the demo video here: [Demo Link]([https://drive.google.com/file/d/1ThKwcTcE9LBDMUWptLma22dKjj_iIzzD/view?usp=drive_link])
 
 ## Repository Contents
 - `main.py`: Batch email processing and classification
